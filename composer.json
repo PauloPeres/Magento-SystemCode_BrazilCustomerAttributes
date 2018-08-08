@@ -2,6 +2,7 @@
     "name": "systemcode/module-brazilcustomerattributes",
     "description": "Brazil Customer Attributes",
     "license": "proprietary",
+    "version": "0.0.1",
     "authors": [
         {
             "name": "System Code LTDA-ME",
